@@ -5,3 +5,5 @@ puts "Github is magic"
 
 puts "Branch 1 is also adding a line of code!"
 
+puts "what does fetch do?"
+
