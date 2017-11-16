@@ -3,6 +3,6 @@ puts "Tuna or Salmon"
 puts "Github is magic"
 
 
+puts "Master branch has a different line of code here!"
 
-blah blah blah
-puts "Branch 1 is changing this line of code"
+puts "what does fetch do?"
